@@ -1,10 +1,5 @@
 # LemonPastel 
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/3XhYYBHZ9wk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-
 This is a shitty CLI tool for scraping EksiSozluk written in Python.
 
 ## Installation
